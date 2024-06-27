@@ -267,10 +267,10 @@ def show_start_screen():
                     pygame.quit()
                     return
 
-# Função principal para iniciar a aplicação
+
 def main():
     show_start_screen()
 
-# Executar função principal
+
 if __name__ == "__main__":
     main()
